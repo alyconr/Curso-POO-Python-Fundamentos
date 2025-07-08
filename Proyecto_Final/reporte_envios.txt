@@ -1,0 +1,26 @@
+📦 SISTEMA DE GESTIÓN DE PAQUETERÍA INTELIGENTE
+🗓️  Reporte generado: 2025-07-07 16:32:08
+
+LISTADO DE ENVÍOS
+--------------------------------------------------
+Cliente: Kevin Pinto
+Dirección: Av. Siempre Viva 742, Springfield, CP: 00001
+Descripción: Zapatos deportivos
+Peso: 2.5 kg
+Estado: Pendiente
+Tipo de envío: Estándar
+Total: $12.500 COP
+--------------------------------------------------
+Cliente: Kevin Pinto
+Dirección: Av. Siempre Viva 742, Springfield, CP: 00001
+Descripción: Pasaporte urgente
+Peso: 1.2 kg
+Estado: Pendiente
+Tipo de envío: Express
+Total: $16.000 COP
+--------------------------------------------------
+
+RESUMEN DE VENTAS
+Total ventas Express: $16.000 COP
+Total ventas Estándar: $12.500 COP
+--------------------------------------------------

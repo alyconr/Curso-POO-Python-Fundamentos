@@ -1,0 +1,20 @@
+[
+    {
+        "cliente": "Kevin Pinto",
+        "direccion": "Av. Siempre Viva 742, Springfield, CP: 00001",
+        "descripcion": "Zapatos deportivos",
+        "peso": 2.5,
+        "estado": "Pendiente",
+        "tipo": "Estandar",
+        "total": 12500.0
+    },
+    {
+        "cliente": "Kevin Pinto",
+        "direccion": "Av. Siempre Viva 742, Springfield, CP: 00001",
+        "descripcion": "Pasaporte urgente",
+        "peso": 1.2,
+        "estado": "Pendiente",
+        "tipo": "Express",
+        "total": 16000.0
+    }
+]
