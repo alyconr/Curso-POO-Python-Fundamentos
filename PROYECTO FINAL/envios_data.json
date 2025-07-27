@@ -1,0 +1,53 @@
+{
+  "clientes": [
+    {
+      "id": "CLI001",
+      "nombre": "Ana García",
+      "telefono": "3001234567",
+      "email": "ana@email.com",
+      "direccion": {
+        "calle": "Calle 123 #45-67",
+        "ciudad": "Bogotá",
+        "codigo_postal": "110111"
+      }
+    },
+    {
+      "id": "CLI003",
+      "nombre": "Carlos López",
+      "telefono": "3107654321",
+      "email": "carlos@email.com",
+      "direccion": {
+        "calle": "Carrera 89 #12-34",
+        "ciudad": "Medellín",
+        "codigo_postal": "050001"
+      }
+    },
+    {
+      "id": "CLI005",
+      "nombre": "María Rodríguez",
+      "telefono": "3209876543",
+      "email": "maria@email.com",
+      "direccion": {
+        "calle": "Avenida 456 #78-90",
+        "ciudad": "Cali",
+        "codigo_postal": "760001"
+      }
+    }
+  ],
+  "envios": [
+    {
+      "id_envio": "ENV0001",
+      "cliente_origen": "CLI003",
+      "cliente_destino": "CLI001",
+      "paquete": {
+        "tipo": "Estándar",
+        "descripcion": "Ropa",
+        "peso": 2.5,
+        "valor_declarado": 150000,
+        "estado": "en_transito"
+      },
+      "precio_total": 6500.0,
+      "fecha_envio": "2025-07-27T00:52:01.786646"
+    }
+  ]
+}
