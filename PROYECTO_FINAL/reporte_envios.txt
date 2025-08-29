@@ -1,0 +1,41 @@
+ SISTEMA DE GESTIÓN DE PAQUETERÍA INTELIGENTE
+  Reporte generado: 2025-07-07 21:38:31
+
+LISTADO DE ENVÍOS
+--------------------------------------------------
+Cliente: Laura Yepes
+Dirección: Trav 58 # 68 H 94, Bogota, CP: 103
+Descripción: Bolso 
+Peso: 2.5 kg
+Estado: Pendiente
+Tipo de envío: Estándar
+Total: $12.500 COP
+--------------------------------------------------
+Cliente: Laura Yepes
+Dirección: Trav 58 # 68 H 94, Bogota, CP: 103
+Descripción: Maquillaje
+Peso: 1.2 kg
+Estado: Pendiente
+Tipo de envío: Express
+Total: $16.000 COP
+--------------------------------------------------
+Cliente: Manuela Marroquin
+Dirección: Trav 58 # 68 H 94, Bogota, CP: 103
+Descripción: Tenis 
+Peso: 2.2 kg
+Estado: Pendiente
+Tipo de envío: Estándar
+Total: $11.000 COP
+--------------------------------------------------
+Cliente: Manuela Marroquin
+Dirección: Trav 58 # 68 H 94, Bogota, CP: 103
+Descripción: Ropa Femenina
+Peso: 3.0 kg
+Estado: Pendiente
+Tipo de envío: Express
+Total: $25.000 COP
+--------------------------------------------------
+RESUMEN DE VENTAS
+-- Total ventas Express: $41.000 COP
+-- Total ventas Estándar: $23.500 COP
+--------------------------------------------------
